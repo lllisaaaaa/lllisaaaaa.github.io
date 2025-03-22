@@ -1,0 +1,59 @@
+.container{
+    width:700px;
+    margin:0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.portrait{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: rgb(1 134 91);
+}
+
+hr{
+    border-color: rgb(131 187 162);
+}
+
+.box{
+    position: relative;
+    left: 250px;
+}
+
+ul{
+    display: inline-block;
+}
+
+.emphasis{
+    color: rgb(1 134 91);
+}
+
+h3{
+    background-color: rgb(131 187 162);
+    color: white;
+    padding-left: 25px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    line-height: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #c3e2dd;
+    letter-spacing: 2px;
+}
+
+table{
+    margin:0 auto;
+    border-color: azure;
+}
+
+ol{
+    padding-left: 70px
+}
+
+p{
+    padding-left: 50px
+}
